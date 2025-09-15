@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Jason Martin"
 
 # Use Hugo modules to add theme
 module:
@@ -23,13 +23,8 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Jason Martin"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -100,15 +95,15 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
-      showAuthor: true # shows the author of post (defaults true)
+      enable: false
+      showAuthor: false # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
+        facebook: false
+        twitter: false
+        linkedin: false
+        reddit: false
+        whatsapp: false
         email: true
         # tumblr: true
         # pocket: true
