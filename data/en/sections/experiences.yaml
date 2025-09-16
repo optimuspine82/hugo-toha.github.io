@@ -47,7 +47,7 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: Ellucian Inc. | Seattle University
+    name: Ellucian Inc.
     url: "https://www.example.com"
     location: Seattle, WA
     logo: /images/sections/experiences/company2.jpg
@@ -56,8 +56,16 @@ experiences:
     overview: Ellucian is a software and services company providing technology solutions to over 2,900 higher education customers across 50 countries, impacting over 22 million students. 
   positions:
   - designation: Media Services Technician | Seattle University
-    start: March 2016
-    end: May 2017
+    start: Dec 2013
+    end: May 2016
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+  - designation: Media Services Technician | Saint Peter's University
+    start: Sep 2012
+    end: Nov 2013
     responsibilities:
     - Write lots of example codes.
     - Read lots of examples.
@@ -66,15 +74,15 @@ experiences:
 - company:
     name: Aiken Technical College
     url: "https://www.example.com"
-    location: Intern Land
+    location: Aiken, SC
     logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Technican College in Aiken, SC
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Technology Support Technician
+    start: Jan 2012
+    end: Aug 2012
     responsibilities:
     - Count lost of interns.
     - Count more interns.
@@ -83,15 +91,15 @@ experiences:
 - company:
     name: WOUB Public Media | Ohio University
     url: "https://www.woub.org"
-    location: Intern Land
+    location: Athens, OH
     logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Traffic & Promotions Coordinator | On-Air Coordinator | TV Director
+    start: Dec 2001
+    end: Jun 2011
     responsibilities:
     - Count lost of interns.
     - Count more interns.
